@@ -3,11 +3,11 @@
     box-sizing: border-box;
 }
 
-/* @font-face {
+@font-face {
     font-family: 'Roboto!';
     src: local('Roboto');
     src: url(../font/Roboto-Regular.ttf);
-} */
+}
 
 html {
     font-family: 'Roboto';
